@@ -1,7 +1,7 @@
 # MyAwesomeBookApp.lol
 
 ## What is it?
-
+Forgot about this
 Have you ever wanted to keep track of your favorite books? MyAwesomeBookApp is the solution you've been waiting for!
 
 ## Adding a book
