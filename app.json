@@ -1,5 +1,5 @@
 {
-  "name": "demo-deploy",
+  "name": "workflow-demo",
   "scripts": {
     "postdeploy": "bin/update"
   },
